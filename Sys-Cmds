@@ -1,0 +1,10 @@
+sudo shutdown                     #shutdown.
+sudo shutdown now                 #shutdown now.
+sudo shutdown 0                   #shutdown in 0 minutes.
+sudo shutdown 22:00               #shutdown on 22:00.
+sudo shutdown 5 "shutting down."  #shutdown in 5 and display message.
+sudo shutdown -P now              #shutdown and powersoff immidietly.
+sudo shutdown --poweroff now      #shutdown and poweroff.
+
+sudo shutdown -r     #reboot
+
